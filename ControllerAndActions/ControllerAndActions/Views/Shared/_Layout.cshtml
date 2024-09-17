@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header style="background-color:yellow">
+        <h1>Header portion</h1>
+    </header>
+    <div>
+        @RenderBody()   @* Poiting to that data which is present into child pages (Index,About,Contact) *@
+    </div>
+    <footer style="background-color:green">
+        <h1>Footer Portion</h1>
+    </footer>
+</body>
+</html>

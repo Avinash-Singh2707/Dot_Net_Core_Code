@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PassingModelFromController_View.props" />
+</Project>

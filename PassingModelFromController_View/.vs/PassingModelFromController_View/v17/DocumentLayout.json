@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT-NET CORE CODE\\PassingModelFromController_View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72B7574-5289-4832-89CB-2D7725AA2CE1}|PassingModelFromController_View\\PassingModelFromController_View.csproj|d:\\dot-net core code\\passingmodelfromcontroller_view\\passingmodelfromcontroller_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A72B7574-5289-4832-89CB-2D7725AA2CE1}|PassingModelFromController_View\\PassingModelFromController_View.csproj|solutionrelative:passingmodelfromcontroller_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72B7574-5289-4832-89CB-2D7725AA2CE1}|PassingModelFromController_View\\PassingModelFromController_View.csproj|d:\\dot-net core code\\passingmodelfromcontroller_view\\passingmodelfromcontroller_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72B7574-5289-4832-89CB-2D7725AA2CE1}|PassingModelFromController_View\\PassingModelFromController_View.csproj|solutionrelative:passingmodelfromcontroller_view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72B7574-5289-4832-89CB-2D7725AA2CE1}|PassingModelFromController_View\\PassingModelFromController_View.csproj|d:\\dot-net core code\\passingmodelfromcontroller_view\\passingmodelfromcontroller_view\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72B7574-5289-4832-89CB-2D7725AA2CE1}|PassingModelFromController_View\\PassingModelFromController_View.csproj|solutionrelative:passingmodelfromcontroller_view\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\PassingModelFromController_View\\PassingModelFromController_View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PassingModelFromController_View\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\PassingModelFromController_View\\PassingModelFromController_View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PassingModelFromController_View\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:14:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\PassingModelFromController_View\\PassingModelFromController_View\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PassingModelFromController_View\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\PassingModelFromController_View\\PassingModelFromController_View\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PassingModelFromController_View\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:13:53.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\PassingModelFromController_View\\PassingModelFromController_View\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PassingModelFromController_View\\Models\\Employee.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\PassingModelFromController_View\\PassingModelFromController_View\\Models\\Employee.cs",
+              "RelativeToolTip": "PassingModelFromController_View\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:10:09.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

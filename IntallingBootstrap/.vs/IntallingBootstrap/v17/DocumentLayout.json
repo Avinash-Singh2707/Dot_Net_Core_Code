@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|d:\\dot-net core code\\intallingbootstrap\\intallingbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|solutionrelative:intallingbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|d:\\dot-net core code\\intallingbootstrap\\intallingbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|solutionrelative:intallingbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|d:\\dot-net core code\\intallingbootstrap\\intallingbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|solutionrelative:intallingbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|d:\\dot-net core code\\intallingbootstrap\\intallingbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F0D892E-19C1-499F-B030-70C7A4ACB4AD}|IntallingBootstrap\\IntallingBootstrap.csproj|solutionrelative:intallingbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntallingBootstrap\\Views\\_Layout.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "IntallingBootstrap\\Views\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:06:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Program.cs",
+              "RelativeDocumentMoniker": "IntallingBootstrap\\Program.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Program.cs",
+              "RelativeToolTip": "IntallingBootstrap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:50:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntallingBootstrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IntallingBootstrap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T17:50:28.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntallingBootstrap\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\IntallingBootstrap\\IntallingBootstrap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntallingBootstrap\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:49:33.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

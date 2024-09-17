@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT-NET CORE CODE\\ValidationAttribute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB09D1-617D-4FE4-83C0-D27F70C846DD}|ValidationAttribute\\ValidationAttribute.csproj|d:\\dot-net core code\\validationattribute\\validationattribute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB09D1-617D-4FE4-83C0-D27F70C846DD}|ValidationAttribute\\ValidationAttribute.csproj|solutionrelative:validationattribute\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB09D1-617D-4FE4-83C0-D27F70C846DD}|ValidationAttribute\\ValidationAttribute.csproj|d:\\dot-net core code\\validationattribute\\validationattribute\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9CB09D1-617D-4FE4-83C0-D27F70C846DD}|ValidationAttribute\\ValidationAttribute.csproj|solutionrelative:validationattribute\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB09D1-617D-4FE4-83C0-D27F70C846DD}|ValidationAttribute\\ValidationAttribute.csproj|d:\\dot-net core code\\validationattribute\\validationattribute\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB09D1-617D-4FE4-83C0-D27F70C846DD}|ValidationAttribute\\ValidationAttribute.csproj|solutionrelative:validationattribute\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ValidationAttribute\\ValidationAttribute\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ValidationAttribute\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ValidationAttribute\\ValidationAttribute\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ValidationAttribute\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:58:15.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ValidationAttribute\\ValidationAttribute\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ValidationAttribute\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ValidationAttribute\\ValidationAttribute\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ValidationAttribute\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:58:03.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ValidationAttribute\\ValidationAttribute\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ValidationAttribute\\Models\\Student.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ValidationAttribute\\ValidationAttribute\\Models\\Student.cs",
+              "RelativeToolTip": "ValidationAttribute\\Models\\Student.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:57:41.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|d:\\dot-net core code\\controllerandactions\\controllerandactions\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|solutionrelative:controllerandactions\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|d:\\dot-net core code\\controllerandactions\\controllerandactions\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|solutionrelative:controllerandactions\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|d:\\dot-net core code\\controllerandactions\\controllerandactions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|solutionrelative:controllerandactions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|d:\\dot-net core code\\controllerandactions\\controllerandactions\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|solutionrelative:controllerandactions\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|d:\\dot-net core code\\controllerandactions\\controllerandactions\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|solutionrelative:controllerandactions\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|d:\\dot-net core code\\controllerandactions\\controllerandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|solutionrelative:controllerandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|d:\\dot-net core code\\controllerandactions\\controllerandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC29755-43C4-47B8-B3F5-40B336077C73}|ControllerAndActions\\ControllerAndActions.csproj|solutionrelative:controllerandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndActions\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "ControllerAndActions\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:36:39.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndActions\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControllerAndActions\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:33:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndActions\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ControllerAndActions\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:32:29.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndActions\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ControllerAndActions\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T18:39:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndActions\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ControllerAndActions\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T18:08:41.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControllerAndActions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T14:58:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllerAndActions\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\ControllerAndActions\\ControllerAndActions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllerAndActions\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:49:54.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

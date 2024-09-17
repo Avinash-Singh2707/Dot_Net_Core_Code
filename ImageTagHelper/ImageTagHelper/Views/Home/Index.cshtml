@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@* IMAGE TAG HELPER *@
+
+<img src="~/images/linux.jfif" asp-append-version="true" height="200", width="400" alt="New Image"/>
+
+@* if the path is same it will retrieve images from the cache memory and if path is changed it will retrieve from 
+SERVER using IMAGE TAG HELPER *@

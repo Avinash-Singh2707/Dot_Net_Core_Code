@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<a href="/Home/Contact/1">Contact Page 1</a>
+<br />
+@Html.ActionLink("Contact Page 2","Contact","Home", new{id=1})         @* Using MVC5 HTML helper text -> This will generate Anchor *@
+<br />
+<a href="@Url.Action("Contact","Home",new{id=1})">Contact Page 3</a>    @* 2nd way to define HTML helper text -> This will generate href not anchor *@
+<br />
+
+@* TAG HELPER *@
+
+<a asp-controller="Home" asp-action="Contact" asp-route-id="1">Contact Page 4</a>
+
+<br />
+<a href="/Home/About/1">Contact Page 5</a>
+<br />
+<a asp-controller="Home" asp-action="About" asp-route-id="1">Contact Page 6</a>
+

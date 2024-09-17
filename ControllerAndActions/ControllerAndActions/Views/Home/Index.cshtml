@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";     
+    /*  ~ symbol refers to root folder -> Laypur property is used to connect your master page to child page*/
+    //Layout = "~/Views/Shared/_Layout2.cshtml";
+    Layout = null;
+}
+
+<h1>Index</h1>
+<p>This is my HOME PAGE</p>
+
+@* Below Razor Syntax *@
+@* <h1>Current Data and time is @DateTime.Now</h1>   
+    
+
+@{
+    var name = "Avinash";
+    var age = 12;
+}
+
+<h1>My name is : @name</h1>
+<h1>My age is : @age</h1>
+ *@
+
+
+@* Accessing Data from Controller to view Using VIEW_DATA *@
+
+@* @ViewData["Data1"];
+<br />
+@ViewData["Data2"];
+<br />
+@ViewData["Data3"];
+
+@{
+    foreach (var item in (string[])ViewData["Data4"]) //TypeCasting -> Whenever we are using ViewData we have to use to TypeCasting
+    {
+        <h2>@item</h2>
+    }
+}
+
+
+@{
+    foreach (var item in (List<string>)ViewData["Data5"]) // Accessing Generic List 
+    {
+        <h2>@item</h2> 
+    }
+}
+ *@
+
+@* Accessing Data from Controller to view Using VIEW_BAG *@
+@* @ViewBag.data1 *@
+
+@* ViewBag and ViewData can used interchangeably *@
+@* @ViewBag.data2;    *@
+
+
+@* Accessing for tempData *@
+@* Temp data is one time accessible and single redirection *@
+
+@ViewData["data1"]
+@ViewBag.data2
+@TempData["data3"]

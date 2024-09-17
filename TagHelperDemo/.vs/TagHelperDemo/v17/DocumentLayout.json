@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dot-net core code\\taghelperdemo\\taghelperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dot-net core code\\taghelperdemo\\taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dot-net core code\\taghelperdemo\\taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|d:\\dot-net core code\\taghelperdemo\\taghelperdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23D089D5-901E-4A61-8C30-72C3A813712A}|TagHelperDemo\\TagHelperDemo.csproj|solutionrelative:taghelperdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Program.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Program.cs",
+              "RelativeToolTip": "TagHelperDemo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:08:36.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TagHelperDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T18:33:20.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelperDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:33:13.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\TagHelperDemo\\TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TagHelperDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T18:32:23.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT-NET CORE CODE\\Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|d:\\dot-net core code\\models\\models\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|solutionrelative:models\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|d:\\dot-net core code\\models\\models\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|solutionrelative:models\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|d:\\dot-net core code\\models\\models\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|solutionrelative:models\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|d:\\dot-net core code\\models\\models\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|solutionrelative:models\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|d:\\dot-net core code\\models\\models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|solutionrelative:models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|d:\\dot-net core code\\models\\models\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|solutionrelative:models\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|d:\\dot-net core code\\models\\models\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FE19EB5-A5FA-43D8-9F3B-9F19C6022269}|Models\\Models.csproj|solutionrelative:models\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\Models\\Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Models\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\Models\\Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Models\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:32:05.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\Models\\Models\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Models\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\Models\\Models\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Models\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T06:32:02.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\Models\\Models\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\Models\\Models\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:41:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\Models\\Models\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\IStudent.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\Models\\Models\\Repository\\IStudent.cs",
+              "RelativeToolTip": "Models\\Repository\\IStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:39:53.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\Models\\Models\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Models\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\Models\\Models\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Models\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:03:35.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\Models\\Models\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Models\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\Models\\Models\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Models\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:03:32.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\Models\\Models\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Models\\Student.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\Models\\Models\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Models\\Student.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:58:53.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

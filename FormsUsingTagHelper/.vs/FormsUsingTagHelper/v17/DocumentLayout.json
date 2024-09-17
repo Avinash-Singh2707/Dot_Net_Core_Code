@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|d:\\dot-net core code\\formsusingtaghelper\\formsusingtaghelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1582DD0D-325D-4951-B2DB-03AB34A0837C}|FormsUsingTagHelper\\FormsUsingTagHelper.csproj|solutionrelative:formsusingtaghelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FormsUsingTagHelper\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:15:49.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\Models\\Employee.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Models\\Employee.cs",
+              "RelativeToolTip": "FormsUsingTagHelper\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:13:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FormsUsingTagHelper\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:06:08.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FormsUsingTagHelper\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:06:04.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormsUsingTagHelper\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:03:44.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FormsUsingTagHelper\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:01:52.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "FormsUsingTagHelper\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-03T12:02:50.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Program.cs",
+              "RelativeDocumentMoniker": "FormsUsingTagHelper\\Program.cs",
+              "ToolTip": "D:\\DOT-NET CORE CODE\\FormsUsingTagHelper\\FormsUsingTagHelper\\Program.cs",
+              "RelativeToolTip": "FormsUsingTagHelper\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:00:15.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

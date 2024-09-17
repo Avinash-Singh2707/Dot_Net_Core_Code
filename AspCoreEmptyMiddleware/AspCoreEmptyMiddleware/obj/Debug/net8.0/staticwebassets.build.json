@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ceHeWVsQwcY9dOIaKp3dRQK3W3CVn5zHiJWkPtuivU4=",
+  "Source": "AspCoreEmptyMiddleware",
+  "BasePath": "_content/AspCoreEmptyMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
